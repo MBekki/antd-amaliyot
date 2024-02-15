@@ -56,7 +56,7 @@ const items = [
     label: (
       <a
         href="https://github.com/MBekki/antd-amaliyot"
-        target=""
+        target="_blank"
         rel="noopener noreferrer"
       >
         Navigation Four - Link
