@@ -54,7 +54,11 @@ const items = [
   },
   {
     label: (
-      <a href="#" target="" rel="noopener noreferrer">
+      <a
+        href="https://github.com/MBekki/antd-amaliyot"
+        target=""
+        rel="noopener noreferrer"
+      >
         Navigation Four - Link
       </a>
     ),
