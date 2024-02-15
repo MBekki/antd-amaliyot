@@ -7,37 +7,37 @@ import {
 import { Menu } from "antd";
 const items = [
   {
-    label: "Navigation One",
+    label: "Pagination One",
     key: "mail",
     icon: <MailOutlined />,
   },
   {
-    label: "Navigation Two",
+    label: "Pagination Two",
     key: "app",
     icon: <AppstoreOutlined />,
     // disabled: true,
   },
   {
-    label: "Navigation Three - Submenu",
+    label: "Pagination Three - Submenu",
     key: "SubMenu",
     icon: <SettingOutlined />,
     children: [
       {
-        type: "group",
+        type: "grouplar",
         label: "Item 1",
         children: [
           {
-            label: "Option 1",
+            label: "Options one",
             key: "setting:1",
           },
           {
-            label: "Option 2",
+            label: "Options two",
             key: "setting:2",
           },
         ],
       },
       {
-        type: "group",
+        type: "grouplar",
         label: "Item 2",
         children: [
           {
