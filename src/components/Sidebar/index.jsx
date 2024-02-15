@@ -49,7 +49,7 @@ const items = [
     getItem("Option 12", "12"),
   ]),
   getItem(
-    "Group",
+    "Groups",
     "grp",
     null,
     [getItem("Option 13", "13"), getItem("Option 14", "14")],
