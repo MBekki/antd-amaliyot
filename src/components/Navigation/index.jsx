@@ -7,7 +7,7 @@ import {
 import { Menu } from "antd";
 const items = [
   {
-    label: "Pagination One",
+    label: "Page One",
     key: "mail",
     icon: <MailOutlined />,
   },
@@ -23,15 +23,15 @@ const items = [
     icon: <SettingOutlined />,
     children: [
       {
-        type: "grouplar",
+        type: "Groups",
         label: "Item 1",
         children: [
           {
-            label: "Options one",
+            label: "Menu 1",
             key: "setting:1",
           },
           {
-            label: "Options two",
+            label: "Menu 2",
             key: "setting:2",
           },
         ],
