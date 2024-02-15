@@ -43,10 +43,10 @@ const items = [
     type: "divider",
   },
   getItem("Navigation Three", "sub4", <SettingOutlined />, [
-    getItem("Option 9", "9"),
-    getItem("Option 10", "10"),
-    getItem("Option 11", "11"),
-    getItem("Option 12", "12"),
+    getItem("Menu 9", "9"),
+    getItem("Menu 10", "10"),
+    getItem("Menu 11", "11"),
+    getItem("Menu 12", "12"),
   ]),
   getItem(
     "Groups",
