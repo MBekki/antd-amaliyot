@@ -12,13 +12,13 @@ const items = [
     icon: <MailOutlined />,
   },
   {
-    label: "Page Two",
+    label: "Pagination Two",
     key: "app",
     icon: <AppstoreOutlined />,
     // disabled: true,
   },
   {
-    label: "Page Three - Submenu",
+    label: "Pagination Three - Submenu",
     key: "SubMenu",
     icon: <SettingOutlined />,
     children: [
@@ -37,7 +37,7 @@ const items = [
         ],
       },
       {
-        type: "Groups",
+        type: "grouplar",
         label: "Item 2",
         children: [
           {
